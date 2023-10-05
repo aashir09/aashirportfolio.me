@@ -230,27 +230,7 @@ import {
       image:flipkart,
       source_code_link: "https://github.com/aashir09/Flipkart-clone-api",
     },
-    {
-      name: "Krypt - Web 3.0 Blockchain Application",
-      description:
-        "With a stunning design, connected to the blockchain, metamask pairing, interaction with smart contracts, sending Ethereum through the blockchain network, writing solidity code, and much more, .",
-      tags: [
-        {
-          name: "react",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "Solidity",
-          color: "green-text-gradient",
-        },
-        {
-          name: "Javascript",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: web2,
-      source_code_link: "https://github.com/aashir09/Web3.0",
-    },
+   
   ];
   
   export { services, technologies, experiences, testimonials, projects,social };
